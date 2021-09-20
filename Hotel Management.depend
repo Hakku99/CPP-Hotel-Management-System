@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1629705554 source:d:\ivan\study\degree\1st year\sem 1\assignment\hotel management\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<stdlib.h>
+
